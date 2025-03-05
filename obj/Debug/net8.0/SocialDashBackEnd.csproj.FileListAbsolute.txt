@@ -1,0 +1,6 @@
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Debug\net8.0\SocialDashBackEnd.exe
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Debug\net8.0\SocialDashBackEnd.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,12 @@
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\SocialDashBackEnd.exe
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\appsettings.json
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\SocialDatabase.json
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\SocialDashBackEnd.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\SocialDashBackEnd.deps.json
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\SocialDashBackEnd.runtimeconfig.json
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\SocialDashBackEnd.pdb
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
