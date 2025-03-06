@@ -31,3 +31,4 @@ C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\obj\Release\net8.0\refin
 C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\obj\Release\net8.0\SocialDashBackEnd.pdb
 C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\obj\Release\net8.0\SocialDashBackEnd.genruntimeconfig.cache
 C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\obj\Release\net8.0\ref\SocialDashBackEnd.dll
+C:\Users\aarmo\CodeStack\Level3\Week2\SocialDashBackEnd\obj\Release\net8.0\SocialDashBackEnd.sourcelink.json

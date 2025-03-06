@@ -8,6 +8,7 @@ namespace SocialDashBackEnd.Models
 {
     public class Platforms
     {
+        public string? TotalFollowers {get; set;}
         public SocialsModel? Facebook {get; set;}
         public SocialsModel? Twitter {get; set;}
         public SocialsModel? Instagram {get; set;}

@@ -16,6 +16,7 @@ namespace SocialDashBackEnd.Services
             SocialData.Add(
                 new Platforms
                 {
+                    TotalFollowers = "23,004",
                     Facebook = new SocialsModel
                     {
                         name = "@nathanf",

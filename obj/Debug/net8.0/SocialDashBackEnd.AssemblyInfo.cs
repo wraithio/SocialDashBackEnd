@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocialDashBackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c639b6e36245f0c25bda88f0bd31a88e7e3079a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocialDashBackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocialDashBackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
